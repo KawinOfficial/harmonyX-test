@@ -1,11 +1,9 @@
 # harmonyX-test
-<h2>
-Exam 1 and 2
-</h2>
+
 
 npm install 
 
-Exam: 1 <br />
+<b>Exam: 1 </b><br />
 input: {
  "array": [2,5,6,4,7],
  "target": 10
@@ -16,7 +14,7 @@ output: {
 }
 <br />
 
-Exam: 2  <br />
+<b>Exam: 2 </b> <br />
 input: {
   "price": 27,
   "money": 100
