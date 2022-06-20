@@ -1,4 +1,4 @@
-# harmonyX-test
+# HarmonyX Solution
 
 
 download and npm install 
