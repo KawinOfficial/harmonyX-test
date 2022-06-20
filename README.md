@@ -4,15 +4,15 @@
 download and npm install 
 
 <b>Exam: 1 </b><br />
-path: "http://127.0.0.4:3005/api/number-integer <br />
-input: {
- "array": [2,5,6,4,7],
- "target": 10
-}
+ path: "http://127.0.0.4:3005/api/number-integer <br />
+ input: {
+  "array": [2,5,6,4,7],
+  "target": 10
+ }
 <br />
-output: {
+ output: {
   "result": [2,3]
-}
+ }
 <br />
 
 <b>Exam: 2 </b> <br />
