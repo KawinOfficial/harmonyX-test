@@ -37,7 +37,7 @@ router.post("/vending-machine", (req, res) => {
   };
 
   const calExchange = (price, pay) => {
-    if (pay > price) {
+    if (pay >= price) {
       let diff = pay - price;
       const exchangeValue = [];
       for (var i = exchangeType.length - 1; i >= 0; i--) {
