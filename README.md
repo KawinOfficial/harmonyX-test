@@ -4,7 +4,7 @@
 download and npm install 
 
 <b>Exam: 1 </b><br />
- path: "http://127.0.0.4:3005/api/number-integer <br />
+ path: "http://localhost:3005/api/number-integer <br />
  input: {
   "array": [2,5,6,4,7],
   "target": 10
@@ -16,7 +16,7 @@ download and npm install
 <br />
 
 <b>Exam: 2 </b> <br />
-path: "http://127.0.0.4:3005/api/vending-machine <br />
+path: "http://localhost:3005/api/vending-machine <br />
 input: {
   "price": 27,
   "money": 100
