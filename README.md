@@ -36,16 +36,4 @@ output: {
     "1000": 0
   }
 }
-    input:{
-           "price": 27,
-           "money": 100
-          }
-    Output:{
-        "state": true,
-        "result": {
-            "allPrice": 4586,
-            "disCountDual": 100,
-            "disCount10": 458.6,
-            "total": 4027.4
-        }
-    }
+   
